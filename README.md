@@ -22,27 +22,27 @@ Open your browser
 http://localhost:8000
 ```
 
-##Add a new user
+**Add a new user**
 
 ```
 http://localhost:8000/create
 ```
 
-##Edit a user
+**Edit a user**
 
 api: http://localhost:88/update/{id}/{user}/{pass}
 ```
 example: http://localhost:8000/update/2/newuser/userpass
 ```
 
-##Delete a user
+**Delete a user**
 
 api: http://localhost:88/delete/{id}
 ```
 example: http://localhost:8000/delete{2}
 ```
 
-##View list of all users in the system
+**View list of all users in the system**
 
 ```
 http://localhost:8000/users
