@@ -17,7 +17,7 @@ $ npm install
 $ nodemon
 ```
 
-Open your browser
+**Open your browser**
 ```
 http://localhost:8000
 ```
