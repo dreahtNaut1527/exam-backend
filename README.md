@@ -32,14 +32,14 @@ http://localhost:8000/create
 
 api: http://localhost:88/update/{id}/{user}/{pass}
 ```
-http://localhost:8000/update/2/newuser/userpass
+example: http://localhost:8000/update/2/newuser/userpass
 ```
 
 ##Delete a user
 
 api: http://localhost:88/delete/{id}
 ```
-http://localhost:8000/delete{2}
+example: http://localhost:8000/delete{2}
 ```
 
 ##View list of all users in the system
