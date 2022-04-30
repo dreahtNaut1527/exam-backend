@@ -14,7 +14,7 @@ $ cd [your folder]
 
 $ npm install
 
-$ npm start
+$ nodemon
 ```
 
 Open your browser
